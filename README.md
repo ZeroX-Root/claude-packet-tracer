@@ -146,6 +146,10 @@ Luego cierra y vuelve a abrir la ventana **MCP BUILDER**. El token es local y no
 
 Este repositorio es **solo documentación**. El servidor MCP y la extensión de Packet Tracer son obra de **[Mats2208](https://github.com/Mats2208/MCP-Packet-Tracer)** (licencia MIT); todo el mérito técnico del servidor es suyo. Aquí está el recorrido de instalación, las soluciones a los problemas que aparecieron en Windows y el caso de estudio.
 
+## Licencia
+
+La documentación y las imágenes de este repositorio se publican bajo licencia [MIT](LICENSE). El servidor MCP y la extensión de [Mats2208](https://github.com/Mats2208/MCP-Packet-Tracer) conservan su propia licencia.
+
 ## Aviso
 
 Proyecto independiente y educativo. **Cisco** y **Packet Tracer** son marcas de Cisco Systems, Inc.; este repositorio no está afiliado ni respaldado por Cisco ni por Anthropic.

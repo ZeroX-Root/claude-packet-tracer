@@ -2,6 +2,10 @@
   <img src="docs/images/hero.png" alt="Claude × Packet Tracer: diseña, configura y verifica redes Cisco con lenguaje natural" width="100%">
 </p>
 
+<p align="center">
+  <img src="docs/images/logo.png" alt="Logo de Claude × Packet Tracer" width="96">
+</p>
+
 <h1 align="center">Claude × Packet Tracer</h1>
 
 <p align="center">
